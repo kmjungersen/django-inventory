@@ -10,3 +10,4 @@ settings_local.py
 .coverage
 dist/
 /django-inventory/settings/local.py
+.idea
